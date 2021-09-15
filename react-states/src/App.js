@@ -1,0 +1,13 @@
+import React, {useState} from 'react';
+import Room from './Room'
+
+function App() {
+ 
+  return (
+    <div>
+      <Room></Room>
+    </div>
+  )
+}
+
+export default App;
