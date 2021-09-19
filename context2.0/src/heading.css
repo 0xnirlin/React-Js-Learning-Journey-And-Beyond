@@ -1,0 +1,22 @@
+.heading{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    height: 100vh;
+    margin-top: -180px;
+    
+}
+
+.black{
+    background-color: rgb(31, 30, 30);
+    color: rgb(7, 39, 66);
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+.light{
+    background-color: white;
+    color: black;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
